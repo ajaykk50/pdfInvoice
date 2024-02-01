@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PDFCreator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">STONAGE INDUSTRIES\nCHOLA ROAD,PATTANNUR P O\nNAYATTUPARA 670595\nMob: 9605252181, 9048133316, 7510252181\n0490 2486316\nGSTIN/UIN: 32AEGFS8891H1ZK\nState Name: Kerala, Code : 32</string>
+    <string name="ship_to">Consignee (Ship to)\nELEMENT TO\nTRIVANDRUM\nState Name  : Kerala, Code : 32</string>
+    <string name="bill_to">ELEMENTTO\nTHAMMANNAM PULLEPADY ROAD\nKALOOR, ERNAKULAM\nGSTIN/UIN   : 32AAFFE0458D1Z0\nState Name  : Kerala, Code : 32\n</string>
+    <string name="goods_name">LATERITE SLICED 12* 7 INCH</string>
+    <string name="sgstcgst"><![CDATA[SGST & CGST]]></string>
+    <string name="igst">IGST</string>
+</resources>
